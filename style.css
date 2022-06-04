@@ -10,13 +10,18 @@ a {
     padding: 5px;
 }
 
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
 #principal {
     width: 900px;
 }
 
 #menu {
     background: #c5c5b2;
-    padding: 18px;
+    padding: 13px;
 }
 
 #conteudo {
@@ -24,6 +29,14 @@ a {
     padding: 10px;
 }
 
+#rodape {
+    text-align: center;
+}
+
 .centralizar {
     text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
 }
